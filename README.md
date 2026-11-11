@@ -1,4 +1,4 @@
-<h2>Open WebUI</h2>
+<h2>Open WebUI for Siegenia</h2>
 
 <p>Open WebUI is <a href="https://docs.openwebui.com/"><strong>a home for AI</strong></a>: an extensible, easy-to-use, self-hosted platform built to run entirely offline. Connect local models through Ollama or use OpenAI-compatible APIs for local and cloud models.</p>
 
